@@ -1,8 +1,14 @@
 {
+  "name": "hasher",
+  "version": "1.0.0",
+  "description": "CLI hashing tool",
+  "main": "hasher.js",
+  "scripts": {
+    "start": "node hasher.js"
+  },
   "dependencies": {
     "prompt-sync": "^4.2.0"
   },
-  "scripts": {
-    "run": "node code.js",
-  }
+  "author": "Adel Mohammed",
+  "license": "MIT"
 }
