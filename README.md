@@ -1,5 +1,6 @@
 HASHER 1.0 - Node.js CLI Hashing Tool
 =====================================
+<img width="592" height="346" alt="image" src="https://github.com/user-attachments/assets/fffe34bd-6d93-43ee-b33a-0894fc029492" />
 
 Description:
 ------------
